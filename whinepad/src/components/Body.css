@@ -1,0 +1,6 @@
+.Body {
+    font-family: "Helvetica Neue";
+    background: url('./../images/back.jpg') no-repeat center center fixed;
+    background-size: cover;
+    padding: 40px;
+}
